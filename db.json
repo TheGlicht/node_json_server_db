@@ -1,0 +1,78 @@
+{
+  "profesores": [
+    {
+      "nommbre": "Fernando",
+      "apellido": "Martínez",
+      "materias": [
+        {
+          "nombre": "Mineria de Datos"
+        },
+        {
+          "nombre": "Optativa III"
+        },
+        {
+          "nombre": "Computo en la nube"
+        }
+      ],
+      "id": "8b00"
+    },
+    {
+      "0": {
+        "nommbre": "Larry",
+        "apellido": "Langosta",
+        "materias": [
+          {
+            "nombre": "Teoria de la Jaiba"
+          },
+          {
+            "nombre": "Yucateco 2 Bomba"
+          },
+          {
+            "nombre": "Segunda Lengua Pecesiano"
+          }
+        ]
+      },
+      "id": "47df"
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Juana",
+      "apellido": "Perez",
+      "promedio": 8.2,
+      "id": "5d95"
+    },
+    {
+      "nombre": "NPC",
+      "apellido": "2",
+      "promedio": 8.5,
+      "id": "6317"
+    },
+    {
+      "nombre": "NPZ",
+      "apellido": "3",
+      "pormedio": 7,
+      "id": "f343"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "Computo en la nube",
+      "duracion": 7,
+      "dificultad": "intermedia",
+      "id": "7660"
+    },
+    {
+      "nombre": "Mineria de Datos",
+      "duracion": 8,
+      "dificultad": "intermedia",
+      "id": "3070"
+    },
+    {
+      "nombre": "Optativa III",
+      "duracion": 6,
+      "dificultad": "alta",
+      "id": "f35b"
+    }
+  ]
+}
